@@ -11,4 +11,4 @@ A React-based web application that fetches and displays random anime quotes. The
 ---
 
 # Acknowledgments
-- 4rnv (https://github.com/4rnv) QuoteAPI for providing the quotes.
+- [4rnv](https://github.com/4rnv) QuoteAPI for providing the quotes.
